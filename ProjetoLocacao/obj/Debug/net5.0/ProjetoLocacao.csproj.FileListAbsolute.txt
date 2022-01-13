@@ -1,0 +1,16 @@
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ProjetoLocacao.exe
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ProjetoLocacao.deps.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ProjetoLocacao.runtimeconfig.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ProjetoLocacao.runtimeconfig.dev.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ProjetoLocacao.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ref\ProjetoLocacao.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\bin\Debug\net5.0\ProjetoLocacao.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.csproj.AssemblyReference.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.AssemblyInfoInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.AssemblyInfo.cs
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.csproj.CoreCompileInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ref\ProjetoLocacao.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjetoLocacao\ProjetoLocacao\obj\Debug\net5.0\ProjetoLocacao.genruntimeconfig.cache
